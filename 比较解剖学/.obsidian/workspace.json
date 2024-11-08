@@ -28,17 +28,14 @@
             "id": "d8a627eb8910d479",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "索引.canvas",
-                "viewState": {
-                  "x": -18.868053217726697,
-                  "y": -2.311813825155241,
-                  "zoom": -0.2108734231690567
-                }
+                "file": "血管.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "索引"
+              "icon": "lucide-file",
+              "title": "血管"
             }
           }
         ],
@@ -184,14 +181,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd7381882e839593",
+  "active": "d8a627eb8910d479",
   "lastOpenFiles": [
-    "未命名 1.canvas",
+    "心脏.md",
+    "血管.md",
     "索引.canvas",
+    "未命名 1.canvas",
     "2024-11-06.md",
     "未命名.md",
-    "血管.md",
-    "心脏.md",
     "哺乳动物.md"
   ]
 }
